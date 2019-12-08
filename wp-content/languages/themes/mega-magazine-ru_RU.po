@@ -1,0 +1,1010 @@
+# Translation of Themes - Mega Magazine in Russian
+# This file is distributed under the same license as the Themes - Mega Magazine package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-29 11:23:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Mega Magazine\n"
+
+#. Theme Name of the theme
+#: inc/about-theme/class-about.php:700
+msgid "Mega Magazine"
+msgstr "Mega Magazine"
+
+#. Description of the theme
+msgid "Mega Magazine is modern, clean, colorful and responsive magazine style theme. It can be used for news, publishers, magazine, sports, technology, food, travel, blogs, newspaper, editors, informative, newsportals and other creative websites. It uses an amazing WordPress Customizer for theme options. Mega Magazine allows you to change slider posts from category with an appealing look. It is completely translation-ready, able to display your page in any language."
+msgstr "Mega Magazine - современная, чистая, красочная и отзывчивая тема в стиле журнала. Она может использоваться для новостей, издателей, журналов, спортивных состязаний, технологий, продуктов питания, путешествий, блогов, газет, редакторов, информационных, новостных и других творческих сайтов. Она использует удивительный WordPress Customizer для изменения параметров темы. Mega Magazine позволяет вам менять слайдеры постов из категории с привлекательным внешним видом. Она полностью готова к переводу, способна отображать вашу страницу на любом языке."
+
+#: inc/customizer/customizer.php:664
+msgid "Ex: https://twitter.com/TheProDesigns"
+msgstr "Ex: https://twitter.com/TheProDesigns"
+
+#: inc/customizer/customizer.php:662
+msgid "Ex: https://www.facebook.com/TheProDesigns"
+msgstr "Ex: https://www.facebook.com/TheProDesigns"
+
+#: inc/about-theme/class-about.php:569
+msgid "Deactivate"
+msgstr "Отключить"
+
+#: inc/about-theme/class-about.php:565
+msgid "Activate"
+msgstr "Включить"
+
+#: inc/about-theme/class-about.php:561
+msgid "Install"
+msgstr "Установка"
+
+#: inc/about-theme/class-about.php:164
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr "Добро пожаловать! Спасибо, что выбрали %1$s! Чтобы полностью воспользоваться преимуществами, которые может предложить наша тема, пожалуйста, убедитесь, что вы посетили нашу %2$s%приветственную страницу%3$s."
+
+#: inc/about-theme/about.php:231
+msgid "High Priority"
+msgstr "Высокий Приоритет"
+
+#: inc/about-theme/about.php:229
+msgid "Highly experienced and dedicated support team for your help plus online chat."
+msgstr "Высококвалифицированная и специализированная группа поддержки для вашей помощи плюс онлайн-чат."
+
+#: inc/about-theme/about.php:228
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: inc/about-theme/about.php:222
+msgid "SEO"
+msgstr "SEO"
+
+#: inc/about-theme/class-about.php:164
+msgid "Get started with %s"
+msgstr "Начните с %s"
+
+#: inc/about-theme/about.php:217
+msgid "Option to Override existing Powerby credit of footer"
+msgstr "Возможность переопределения существующего параметра Powerby нижнего колонтитула (в footer)"
+
+#: inc/about-theme/about.php:216
+msgid "Override Footer Credit"
+msgstr "Переопределить нижний колонтитул (footer)"
+
+#: inc/about-theme/about.php:188 inc/about-theme/about.php:189
+#: inc/about-theme/about.php:195 inc/about-theme/about.php:207
+#: inc/about-theme/about.php:213 inc/about-theme/about.php:219
+#: inc/about-theme/about.php:230
+msgid "yes"
+msgstr "да"
+
+#: inc/about-theme/about.php:194 inc/about-theme/about.php:206
+#: inc/about-theme/about.php:212 inc/about-theme/about.php:218
+msgid "no"
+msgstr "нет"
+
+#: inc/about-theme/about.php:183
+msgid "100+"
+msgstr "100+"
+
+#: inc/about-theme/about.php:176
+msgid "9"
+msgstr "9"
+
+#: inc/about-theme/about.php:175
+msgid "8"
+msgstr "8"
+
+#: inc/about-theme/about.php:45
+msgid "FREE VS. PRO"
+msgstr "FREE VS. PRO"
+
+#: inc/about-theme/about.php:211
+msgid "Option to enable/disable Powerby(Designer) credit in footer"
+msgstr "Возможность включения/выключения блока Powerby(Designer) в нижнем колонтитуле (footer)"
+
+#: inc/about-theme/about.php:210
+msgid "Hide Footer Credit"
+msgstr "Скрыть блок в нижнем колонтитуле (footer)"
+
+#: inc/about-theme/about.php:205
+msgid "Options to display posts in grid or list layout"
+msgstr "Параметры отображения постов по сетке или по макету списка"
+
+#: inc/about-theme/about.php:204
+msgid "Grid Layout"
+msgstr "Макет сетки"
+
+#: inc/about-theme/about.php:201
+msgid "Multiple Categories"
+msgstr "Несколько категорий"
+
+#: inc/about-theme/about.php:200
+msgid "Single Category"
+msgstr "Одна категория"
+
+#: inc/about-theme/about.php:199
+msgid "Show slider from multiple categories"
+msgstr "Показать слайдер из нескольких категорий"
+
+#: inc/about-theme/about.php:198
+msgid "Slider Selection Options"
+msgstr "Параметры выбора слайдера"
+
+#: inc/about-theme/about.php:193
+msgid "Options to change color of the sections of a site"
+msgstr "Параметры для изменения цвета разделов сайта"
+
+#: inc/about-theme/about.php:192
+msgid "Advance Color Options"
+msgstr "Дополнительные параметры цвета"
+
+#: inc/about-theme/about.php:187
+msgid "Options to change primary color of the site"
+msgstr "Параметры изменения основного цвета сайта"
+
+#: inc/about-theme/about.php:186
+msgid "Primary Color Options"
+msgstr "Параметры основного цвета"
+
+#: inc/about-theme/about.php:181
+msgid "Google fonts options for changing the overall site fonts"
+msgstr "Настройки шрифтов Google для изменения общих шрифтов сайта"
+
+#: inc/about-theme/about.php:180
+msgid "Google Fonts"
+msgstr "Шрифты Google"
+
+#: inc/about-theme/about.php:174
+msgid "Widgets added by theme to enhance features"
+msgstr "Виджеты добавлены темы для повышения возможностей"
+
+#: inc/about-theme/about.php:173
+msgid "Custom Widgets"
+msgstr "Пользовательские виджеты"
+
+#: inc/about-theme/about.php:164
+msgid "Upgrade to pro version for more exciting features and additional theme options."
+msgstr "Обновление до pro-версии для более интересных функций и дополнительных опций темы."
+
+#: inc/about-theme/about.php:155
+msgid "About child theme"
+msgstr "О дочерней теме"
+
+#: inc/about-theme/about.php:154
+msgid "If you want to customize theme file, you should use child theme rather than modifying theme file itself."
+msgstr "Если вы хотите настроить файл темы, вы должны использовать дочернюю тему, а не изменять сам файл темы."
+
+#: inc/about-theme/about.php:152
+msgid "Child Theme"
+msgstr "Дочерняя тема"
+
+#: inc/about-theme/about.php:145
+msgid "We have dedicated team members for theme customization. Feel free to contact us any time if you need any customization service."
+msgstr "У нас есть преданные члены команды для настройки темы. Не стесняйтесь обращаться к нам в любое время, если вам нужна какая-либо услуга настройки."
+
+#: inc/about-theme/about.php:143 inc/about-theme/about.php:146
+msgid "Customization Request"
+msgstr "Запрос на настройку"
+
+#: inc/about-theme/about.php:128
+msgid "View Pro Version"
+msgstr "Просмотр версии Pro"
+
+#: inc/about-theme/about.php:127
+msgid "Upgrade to pro version for additional features and options."
+msgstr "Обновите версию для дополнительных функций и опций."
+
+#: inc/about-theme/about.php:124
+msgid "Pro Version"
+msgstr "Pro-версия"
+
+#: inc/about-theme/about.php:117
+msgid "Kindly check our theme documentation for detailed information and video instructions."
+msgstr "Просьба ознакомиться с нашей тематической документацией для получения подробной информации и видео-инструкций."
+
+#: inc/about-theme/about.php:108
+msgid "If you have any problem, feel free to create ticket on our dedicated Support forum."
+msgstr "Если у вас есть какие-либо проблемы, не стесняйтесь создавать билет на нашем специализированном форуме поддержки."
+
+#: inc/about-theme/about.php:106 inc/about-theme/about.php:109
+msgid "Contact Support"
+msgstr "Связаться с поддержкой"
+
+#: inc/about-theme/about.php:98
+msgid "Static Front Page"
+msgstr "Статическая главная страница"
+
+#: inc/about-theme/about.php:95
+msgid "Create a new page to display on front page ( Ex: Home ) and assign \"Home\" template. Select A static page then Front page and Posts page to display front page specific sections."
+msgstr "Создайте новую страницу для отображения на главной странице (например: Главная) и назначьте шаблон «Главная». Выберите «Статическая страница», а затем «Главная страница» и «Страница записей», чтобы отобразить на главной странице специальные разделы."
+
+#: inc/about-theme/about.php:94
+msgid "Setting Static Front Page"
+msgstr "Настройка статической главной страницы"
+
+#: inc/about-theme/about.php:81 inc/about-theme/about.php:137
+msgid "Video Tutorials"
+msgstr "Видеоуроки"
+
+#: inc/about-theme/about.php:80 inc/about-theme/about.php:136
+msgid "Please check our youtube channel for video instructions of Mega Magazine setup and customization."
+msgstr "Пожалуйста, проверьте наш канал YouTube для видео-инструкций по настройке и изменению Mega Magazine."
+
+#: inc/about-theme/about.php:78 inc/about-theme/about.php:134
+msgid "Youtube Video Tutorials"
+msgstr "Видеоуроки Youtube"
+
+#: inc/about-theme/about.php:69
+msgid "Customize Everything"
+msgstr "Настроить всё"
+
+#: inc/about-theme/about.php:71
+msgid "Go to Customizer"
+msgstr "Перейти в Customizer"
+
+#: inc/about-theme/about.php:62
+msgid "Check recommended actions"
+msgstr "Проверьте рекомендуемые действия"
+
+#: inc/about-theme/about.php:61
+msgid "We recommend few steps to take so that you can get complete site like shown in demo."
+msgstr "Мы рекомендуем сделать несколько шагов, чтобы вы могли получить полный сайт, как показано в демонстрации."
+
+#: inc/about-theme/about.php:53
+msgid "View documentation"
+msgstr "Просмотр документации"
+
+#: inc/about-theme/about.php:52
+msgid "Find step by step instructions with video documentation to setup theme easily."
+msgstr "Найдите пошаговые инструкции с видео документацией, чтобы легко настроить тему."
+
+#: inc/about-theme/about.php:51 inc/about-theme/about.php:115
+msgid "Theme Documentation"
+msgstr "Документация по теме"
+
+#: inc/about-theme/class-about.php:603 inc/about-theme/about.php:44
+#: inc/about-theme/about.php:165
+msgid "Upgrade to Pro"
+msgstr "Обновление до Pro"
+
+#: inc/about-theme/about.php:43
+msgid "Support"
+msgstr "Поддержка"
+
+#: inc/about-theme/about.php:42 inc/about-theme/about.php:60
+msgid "Recommended Actions"
+msgstr "Рекомендуемые действия"
+
+#: inc/about-theme/about.php:41
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: inc/about-theme/about.php:34
+msgid "Rate This Theme"
+msgstr "Оценить эту тему"
+
+#: inc/about-theme/about.php:29 inc/about-theme/about.php:118
+msgid "View Documentation"
+msgstr "Просмотр документации"
+
+#: inc/about-theme/about.php:25
+msgid "View Demo"
+msgstr "Посмотреть демонстрацию"
+
+#: inc/about-theme/about.php:21
+msgid "Theme Details"
+msgstr "Информация о теме"
+
+#. translators: 1: theme name
+#: inc/about-theme/about.php:16
+msgid "This page will help you to setup %1$s with few clicks. We believe you will find it easy to use and perfect for your website development."
+msgstr "Эта страница поможет вам установить %1$s с несколькими щелчками мыши. Мы считаем, что вы найдете её простым в использовании и идеально подходящим для разработки вашего сайта."
+
+#. translators: theme version
+#: inc/about-theme/about.php:13
+msgid "Welcome to %s - "
+msgstr "Добро пожаловать в %s - "
+
+#: inc/about-theme/about.php:9 inc/about-theme/about.php:10
+msgid "About Mega Magazine"
+msgstr "О Mega Magazine"
+
+#: inc/about-theme/about.php:70
+msgid "Start customizing every aspect of the website with customizer."
+msgstr "Начните настраивать каждый аспект сайта с помощью Customizer."
+
+#: inc/about-theme/about.php:223
+msgid "Developed with high skilled SEO tools."
+msgstr "Разработано с использованием высококвалифицированных инструментов SEO."
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:64
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Продолжить чтение <span class=\"screen-reader-text\">\"%s\"</span>"
+
+#: template-parts/content-page.php:22 template-parts/content.php:75
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:44
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Похоже, мы не можем найти то, что вы ищете. Возможно, поиск сможет помочь."
+
+#: template-parts/content-none.php:38
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, но ничто не соответствует вашим условиям поиска. Пожалуйста, попытайтесь снова с другими ключевыми словами."
+
+#. translators: 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свой первый пост? <a href=\"%1$s\">Начните здесь</a>."
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Странно... ничего"
+
+#: searchform.php:16
+msgctxt "submit button"
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:14
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Поиск &hellip;"
+
+#: inc/widgets/three-columns.php:186
+msgid "Enable carousel(post slider)"
+msgstr "Включить карусель (post slider)"
+
+#: inc/widgets/three-columns.php:17
+msgid "MM: Three Column News"
+msgstr "MM: Новости в три колонки"
+
+#: searchform.php:13
+msgctxt "label"
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: inc/widgets/three-columns.php:14
+msgid "Widget to display first posts with large thumbnail in three columns"
+msgstr "Виджет для отображения первых сообщений с большим эскизом в трех столбцах"
+
+#: inc/widgets/split-columns.php:17
+msgid "MM: Split Column News"
+msgstr "MM: Новости с разделителем колонок"
+
+#: inc/widgets/split-columns.php:14
+msgid "Widget to display single post with large thumbnail in left side and five news at right with small thumbnail"
+msgstr "Виджет для показа одного сообщения с большим эскизом в левой части и пять новостей справа с маленьким миниатюрным изображением"
+
+#: inc/widgets/social-profile.php:74
+msgid "Please add social links at Appearance >> Customize >> Theme Options >> Social Links"
+msgstr "Пожалуйста, добавьте социальные ссылки во Внешний вид >> Настроить >> Параметры темы >> Социальные ссылки"
+
+#: inc/widgets/social-profile.php:17
+msgid "MM: Social Links"
+msgstr "MM: Социальные ссылки"
+
+#: inc/widgets/social-profile.php:15
+msgid "Widget to display social links. You can add social links from Appearance >> Customize >> Theme Options >> Social Links."
+msgstr "Виджет для отображения социальных ссылок. Вы можете добавить социальные ссылки из Внешний вид >> Настроить >> Параметры темы >> Социальные ссылки."
+
+#: inc/widgets/slider.php:367
+msgid "Scroll Vertical"
+msgstr "Вертикальная прокрутка"
+
+#: inc/widgets/slider.php:366
+msgid "Scroll Horizontal"
+msgstr "Горизонтальная прокрутка"
+
+#: inc/widgets/slider.php:347
+msgid "Show Thumbnail Navigation"
+msgstr "Показать навигацию по миниатюрам"
+
+#: inc/widgets/slider.php:342
+msgid "Show Posted Date"
+msgstr "Показать дату публикации"
+
+#: inc/widgets/slider.php:332
+msgid "Enable Overlay"
+msgstr "Включить наложение (оверлей)"
+
+#: inc/widgets/slider.php:327
+msgid "Show Arrow"
+msgstr "Показать стрелку"
+
+#: inc/widgets/slider.php:322
+msgid "Enable Autoplay"
+msgstr "Включить автовоспроизведение"
+
+#: inc/widgets/slider.php:317
+msgid "in seconds"
+msgstr "в секундах"
+
+#: inc/widgets/slider.php:315
+msgid "Transition Delay:"
+msgstr "Задержка перехода:"
+
+#: inc/widgets/slider.php:303
+msgid "Transition Effect:"
+msgstr "Эффект перехода:"
+
+#: inc/widgets/slider.php:299
+msgid "Number of posts to slide"
+msgstr "Количество постов для смены"
+
+#: inc/widgets/slider.php:280
+msgid "Select Category:"
+msgstr "Выбрать категорию:"
+
+#: inc/widgets/slider.php:145 template-parts/content-search.php:29
+#: template-parts/content.php:29
+msgid " - "
+msgstr " - "
+
+#: inc/widgets/slider.php:21
+msgid "MM: Slider"
+msgstr "MM: Слайдер"
+
+#: inc/widgets/slider.php:19
+msgid "Widget to display slider."
+msgstr "Виджет для отображения слайдера."
+
+#: inc/widgets/full-column.php:18
+msgid "MM: Full Column News"
+msgstr "MM: Новости одной широкой колонкой"
+
+#: inc/widgets/full-column.php:15
+msgid "Widget to display news posts with large thumbnail, title and excerpt in single column"
+msgstr "Виджет для отображения сообщений новостей с большим эскизом, заголовком и выдержкой в одной колонке"
+
+#: inc/widgets/full-column.php:178 inc/widgets/split-columns.php:197
+#: inc/widgets/double-columns.php:200
+msgid "Excerpt Length:"
+msgstr "Длина отрывка"
+
+#: inc/widgets/recent-posts.php:100 inc/widgets/full-column.php:150
+#: inc/widgets/split-columns.php:169 inc/widgets/double-columns.php:172
+#: inc/widgets/popular-posts.php:102 inc/widgets/social-profile.php:70
+#: inc/widgets/three-columns.php:146
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: inc/widgets/double-columns.php:18
+msgid "MM: Double Column News"
+msgstr "MM: Новости в две колонки"
+
+#: inc/widgets/double-columns.php:15
+msgid "Widget to display first two posts with large thumbnail and other with small thumbnail in double column"
+msgstr "Виджет для отображения первых двух сообщений с большим эскизом и другими с маленьким эскизом в двойной колонке"
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:83 template-parts/content-page.php:35
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "Изменить <span class=\"screen-reader-text\">%s</span>"
+
+#. translators: %s: post title
+#: inc/template-tags.php:66
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "Комментировать<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:53
+msgctxt "list item separator"
+msgid ", "
+msgstr ", "
+
+#. translators: 1: list of categories.
+#: inc/template-tags.php:49
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:46 inc/widgets/slider.php:154
+#: template-parts/content-search.php:36 template-parts/content.php:36
+msgid ", "
+msgstr ", "
+
+#: inc/template-functions.php:252
+msgctxt "Open Sans: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. by Roboto, translate this to 'off'. Do not translate into your own language.
+#: inc/template-functions.php:249
+msgctxt "Roboto: on or off"
+msgid "on"
+msgstr "on"
+
+#: inc/customizer/get-options.php:83
+msgid "Read More"
+msgstr "Читать дальше"
+
+#: inc/customizer/get-options.php:74
+msgid "Breaking News"
+msgstr "Последние новости"
+
+#: inc/customizer/customizer.php:699
+msgid "Copyright Text"
+msgstr "Текст авторского права"
+
+#: inc/customizer/customizer.php:671
+msgid "Social Link"
+msgstr "Социальная ссылка"
+
+#: inc/customizer/customizer.php:649
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: inc/customizer/customizer.php:637
+msgid "View All Posts Text"
+msgstr "Просмотреть все сообщения - текст"
+
+#: inc/customizer/customizer.php:621
+msgid "Text Before Author Name"
+msgstr "Текст перед именем автора"
+
+#: inc/customizer/customizer.php:605
+msgid "Enable Author Information"
+msgstr "Включить блок \"Информация об авторе\""
+
+#: inc/customizer/customizer.php:591
+msgid "About Author Options"
+msgstr "Настройки \"Об авторе\""
+
+#: inc/customizer/customizer.php:504
+msgid "Hide read more button"
+msgstr "Скрыть кнопку \"Читать далее\""
+
+#: inc/customizer/customizer.php:472
+msgid "Hide posted date"
+msgstr "Скрыть дату размещения"
+
+#: inc/customizer/customizer.php:455
+msgid "in words"
+msgstr "прописью"
+
+#: inc/customizer/customizer.php:454
+msgid "Excerpt Length"
+msgstr "Длина отрывка"
+
+#: inc/customizer/customizer.php:438
+msgid "Read More Text"
+msgstr "Текст \"Читать далее\""
+
+#: inc/customizer/customizer.php:417
+msgid "Blog Layout"
+msgstr "Макет блога"
+
+#: inc/customizer/customizer.php:387
+msgid "Blog Options"
+msgstr "Параметры блога"
+
+#: inc/customizer/customizer.php:375
+msgid "Breadcrumb Home Text"
+msgstr "Текст ссылки \"Главная\" в \"хлебных крошках\""
+
+#: inc/customizer/customizer.php:359
+msgid "Enable Breadcrumb"
+msgstr "Включить \"хлебные крошки\""
+
+#: inc/customizer/customizer.php:345
+msgid "Breadcrumb Options"
+msgstr "Настройка \"хлебных крошек\""
+
+#: inc/customizer/customizer.php:332
+msgid "Number of posts to show"
+msgstr "Количество постов для отображения"
+
+#: inc/customizer/customizer.php:297
+msgid "Breaking News Title"
+msgstr "Заголовок блока \"Последние новости\""
+
+#: inc/customizer/customizer.php:281
+msgid "Enable Breaking News"
+msgstr "Включить блок \"Последние новости\""
+
+#: inc/customizer/customizer.php:267
+msgid "Breaking News Options"
+msgstr "Настройки блока \"Последние новости\""
+
+#: inc/customizer/customizer.php:255
+msgid "Show Search"
+msgstr "Показывать поиск"
+
+#: inc/customizer/customizer.php:239
+msgid "Show Home Icon"
+msgstr "Показывать значок \"Главная\""
+
+#: inc/customizer/customizer.php:213
+msgid "Show Social Icons"
+msgstr "Показывать значки социальных сетей"
+
+#: inc/customizer/customizer.php:197
+msgid "Show Menu Items"
+msgstr "Показать элементы меню"
+
+#: inc/customizer/customizer.php:181
+msgid "Show Current Date"
+msgstr "Показать текущую дату"
+
+#: inc/customizer/customizer.php:165
+msgid "Enable Top Header"
+msgstr "Включить блок Верхнего Меню"
+
+#: inc/customizer/customizer.php:225
+msgid "Main Header"
+msgstr "Главное Меню"
+
+#: inc/customizer/customizer.php:151
+msgid "Top Header"
+msgstr "Верхнее меню"
+
+#: inc/customizer/customizer.php:141
+msgid "Boxed"
+msgstr "В рамке"
+
+#: inc/customizer/customizer.php:140
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: inc/customizer/customizer.php:135
+msgid "Site Layout"
+msgstr "Макет сайта"
+
+#: inc/customizer/customizer.php:121
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#: inc/customizer/customizer.php:111
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: inc/customizer/customizer.php:100
+msgid "Select main color of the site."
+msgstr "Выбрать главный цвет сайта"
+
+#: inc/customizer/customizer.php:99
+msgid "Primary Color"
+msgstr "Основной цвет"
+
+#: inc/customizer/customizer.php:80
+msgid "Logo + Tagline"
+msgstr "Логотип + Слоган"
+
+#: inc/customizer/customizer.php:79
+msgid "Logo + Title"
+msgstr "Логотип + Название"
+
+#: inc/customizer/customizer.php:78
+msgid "Title + Tagline"
+msgstr "Название + Слоган"
+
+#: inc/customizer/customizer.php:77
+msgid "Logo Only"
+msgstr "Только логотип"
+
+#: inc/customizer/customizer.php:72
+msgid "Site Title and Logo"
+msgstr "Название сайта и логотип"
+
+#: inc/customizer/customizer.php:51
+msgid "Buy Pro"
+msgstr "Купить Pro"
+
+#: inc/customizer/customizer.php:50 inc/about-theme/class-about.php:701
+msgid "Mega Magazine Pro"
+msgstr "Mega Magazine Pro"
+
+#: inc/customizer/customizer.php:316 inc/customizer/customizer-controls.php:79
+msgid "Select Category"
+msgstr "Выбрать категорию"
+
+#: inc/breadcrumbs/breadcrumbs.php:788
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/breadcrumbs/breadcrumbs.php:760 inc/breadcrumbs/breadcrumbs.php:1188
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/breadcrumbs/breadcrumbs.php:759 inc/breadcrumbs/breadcrumbs.php:815
+#: inc/breadcrumbs/breadcrumbs.php:1184
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/breadcrumbs/breadcrumbs.php:758 inc/breadcrumbs/breadcrumbs.php:787
+#: inc/breadcrumbs/breadcrumbs.php:814 inc/breadcrumbs/breadcrumbs.php:841
+#: inc/breadcrumbs/breadcrumbs.php:1180
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/breadcrumbs/breadcrumbs.php:742
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/breadcrumbs/breadcrumbs.php:725
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/breadcrumbs/breadcrumbs.php:708
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs/breadcrumbs.php:256
+msgid "Week %s"
+msgstr "Неделя %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs/breadcrumbs.php:254
+msgid "Minute %s"
+msgstr "Минута %s"
+
+#. Translators: %s is the page number.
+#: inc/breadcrumbs/breadcrumbs.php:252
+msgid "Page %s"
+msgstr "Страница %s"
+
+#. Translators: %s is the search query. The HTML entities are opening and
+#. closing curly quotes.
+#: inc/breadcrumbs/breadcrumbs.php:250
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "Искать результат для &#8220;%s&#8221;"
+
+#: inc/breadcrumbs/breadcrumbs.php:248
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/breadcrumbs/breadcrumbs.php:247
+msgid "404 Not Found"
+msgstr "404 Не найдено"
+
+#. Template Name of the theme
+#: inc/customizer/get-options.php:79 inc/breadcrumbs/breadcrumbs.php:246
+msgid "Home"
+msgstr "Главная"
+
+#: inc/breadcrumbs/breadcrumbs.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Хлебные крошки"
+
+#: inc/breadcrumbs/breadcrumbs.php:244
+msgid "Browse:"
+msgstr "Просмотр:"
+
+#: functions.php:155
+msgid "Footer Four"
+msgstr "Нижний колонтитул 4"
+
+#: functions.php:145
+msgid "Footer Three"
+msgstr "Нижний колонтитул 3"
+
+#: functions.php:135
+msgid "Footer Two"
+msgstr "Нижний колонтитул 2"
+
+#: functions.php:125
+msgid "Footer One"
+msgstr "Нижний колонтитул 1"
+
+#: functions.php:117
+msgid "Widgets added here will appear in Home Page"
+msgstr "Виджеты, добавленные здесь, будут отображаться на главной странице"
+
+#: functions.php:115
+msgid "Front Page (Main News Area)"
+msgstr "Главная страница (главная область новостей)"
+
+#: functions.php:107 functions.php:127 functions.php:137 functions.php:147
+#: functions.php:157 functions.php:167
+msgid "Add widgets here."
+msgstr "Добавьте виджеты здесь."
+
+#: functions.php:53
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: functions.php:52
+msgid "Top Menu"
+msgstr "Верхнее меню"
+
+#: footer.php:76
+msgid "Mega Magazine by"
+msgstr "Mega Magazine от"
+
+#: comments.php:88
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:50 comments.php:71
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s комментарий на &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария на &ldquo;%2$s&rdquo;"
+msgstr[2] "%1$s комментариев на &ldquo;%2$s&rdquo;"
+
+#. translators: 1: title.
+#: comments.php:34
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "Один комментарий на &ldquo;%1$s&rdquo;"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "К сожалению! Эта страница не найдена."
+
+#: 404.php:17
+msgid "404 Error!"
+msgstr "404 Ошибка!"
+
+#: templates/home.php:37
+msgid "Go to Appearance->Widgets in admin panel to add widgets. This widget will be replaced when you start adding widgets."
+msgstr "Для добавления виджетов перейдите во Внешний вид -> Виджеты в панели администратора. Этот виджет будет заменен при добавлении виджетов."
+
+#: inc/widgets/slider.php:365
+msgid "Fade"
+msgstr "Затухание"
+
+#: inc/widgets/recent-posts.php:95
+msgid "Recent Posts"
+msgstr "Недавние записи"
+
+#: inc/widgets/recent-posts.php:18
+msgid "MM: Recent Posts"
+msgstr "MM: Недавние записи"
+
+#: inc/widgets/popular-posts.php:97
+msgid "Popular Posts"
+msgstr "Популярные записи"
+
+#: inc/widgets/popular-posts.php:18
+msgid "MM: Popular Posts"
+msgstr "MM: Популярные записи"
+
+#: inc/widgets/popular-posts.php:15
+msgid "Widget to display popular posts with title, thumbnail and date. Receommended to use in sidebar or footer."
+msgstr "Виджет для отображения популярных записей с заголовком, миниатюрой и датой. Рекомендуется использовать в боковой панели или подвале."
+
+#: inc/widgets/recent-posts.php:15
+msgid "Widget to display recent posts with title, thumbnail and date. Receommended to use in sidebar or footer."
+msgstr "Виджет для отображения последних записей с заголовком, миниатюрами и датой. Рекомендуется использовать в боковой панели или подвале."
+
+#: inc/widgets/slider.php:337
+msgid "Show Categories"
+msgstr "Показывать рубрики"
+
+#: inc/widgets/recent-posts.php:106 inc/widgets/full-column.php:184
+#: inc/widgets/split-columns.php:203 inc/widgets/double-columns.php:206
+#: inc/widgets/slider.php:297 inc/widgets/popular-posts.php:108
+#: inc/widgets/three-columns.php:173
+msgid "Number of Posts:"
+msgstr "Количество записей:"
+
+#: inc/widgets/full-column.php:173 inc/widgets/split-columns.php:192
+#: inc/widgets/double-columns.php:195 inc/widgets/three-columns.php:169
+msgid "Enable link to category page"
+msgstr "Включить ссылку на страницу рубрики"
+
+#: inc/widgets/full-column.php:165 inc/widgets/split-columns.php:184
+#: inc/widgets/double-columns.php:187 inc/widgets/slider.php:290
+#: inc/widgets/three-columns.php:161
+msgid "All Categories"
+msgstr "Все рубрики"
+
+#: inc/widgets/full-column.php:155 inc/widgets/split-columns.php:174
+#: inc/widgets/double-columns.php:177 inc/widgets/three-columns.php:151
+msgid "Category:"
+msgstr "Рубрика:"
+
+#. translators: 1: list of tags.
+#: inc/template-tags.php:56
+msgid "Tagged %1$s"
+msgstr "Отмечено %1$s"
+
+#: inc/customizer/customizer.php:685
+msgid "Footer Options"
+msgstr "Настройки подвала"
+
+#: inc/customizer/get-options.php:96
+msgid "Read All Posts By"
+msgstr "Читать все записи автора"
+
+#: inc/customizer/get-options.php:98
+msgid "Copyright &copy; All rights reserved."
+msgstr "Авторские права &copy; Все права защищены"
+
+#: inc/customizer/get-options.php:95
+msgid "About"
+msgstr "Об авторе"
+
+#: inc/customizer/customizer.php:711
+msgid "Category Color Options"
+msgstr "Параметры цветов рубрик"
+
+#: inc/customizer/customizer.php:578
+msgid "Number Of Related Posts"
+msgstr "Количество похожих записей"
+
+#: inc/customizer/customizer.php:562
+msgid "Enable Carousel Mode (Posts Slider)"
+msgstr "Включить режим карусели (слайдер записей)"
+
+#: inc/customizer/customizer.php:546
+msgid "Related Posts Title"
+msgstr "Заголовок похожих записей"
+
+#: inc/customizer/customizer.php:530
+msgid "Enable Related Posts"
+msgstr "Включить похожие записи"
+
+#: inc/customizer/customizer.php:516
+msgid "Related Posts Options"
+msgstr "Похожие записи - Настройки"
+
+#: inc/customizer/customizer.php:488
+msgid "Hide post category"
+msgstr "Скрыть рубрику записи"
+
+#: inc/customizer/customizer.php:423
+msgid "Right Sidebar"
+msgstr "Правая боковая панель"
+
+#: inc/customizer/customizer.php:422
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/customizer/customizer.php:401
+msgid "Enable Sticky Sidebar"
+msgstr "Включить фиксированую область виджетов"
+
+#: functions.php:105
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:165
+msgid "Header Advertisement"
+msgstr "Реклама в заголовке"
+
+#: inc/customizer/get-options.php:90
+msgid "Related Posts"
+msgstr "Похожие записи"
+
+#: comments.php:54 comments.php:75
+msgid "Newer Comments"
+msgstr "Следующие комментарии"
+
+#: comments.php:53 comments.php:74
+msgid "Older Comments"
+msgstr "Предыдущие комментарии"
+
+#. Author URI of the theme
+#: inc/about-theme/class-about.php:162
+msgid "https://www.prodesigns.com/"
+msgstr "https://www.prodesigns.com/"
+
+#. Author of the theme
+msgid "ProDesigns"
+msgstr "ProDesigns"
+
+#. Theme URI of the theme
+msgid "https://www.prodesigns.com/wordpress-themes/downloads/mega-magazine"
+msgstr "https://www.prodesigns.com/wordpress-themes/downloads/mega-magazine"
